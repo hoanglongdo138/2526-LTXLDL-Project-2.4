@@ -1,4 +1,3 @@
-table,flag,count,percent
-microblogs,ok,182386,99.98
-microblogs,missing_text,36,0.02
-weather,ok,4,100.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0d232582d30c8b9b67004aba2f0fec569bc6870c2d5752a0f07b0c24901881d
+size 107

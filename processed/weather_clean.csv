@@ -1,5 +1,3 @@
-timestamp,Weather,Average_Wind_Speed,Wind_Direction,flag
-2011-05-12,CLOUDY,8,N,ok
-2011-05-13,RAIN,10,N,ok
-2011-05-14,CLOUDY,8,NW,ok
-2011-05-15,SUNNY,8,NW,ok
+version https://git-lfs.github.com/spec/v1
+oid sha256:c940bdf5af22a66e89f6858bdb8e448ff5d4a3793d6c5ecf1c601715dec7a88d
+size 162
