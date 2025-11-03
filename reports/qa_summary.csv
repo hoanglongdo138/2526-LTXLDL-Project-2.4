@@ -1,0 +1,4 @@
+table,flag,count,percent
+microblogs,ok,182386,99.98
+microblogs,missing_text,36,0.02
+weather,ok,4,100.0
