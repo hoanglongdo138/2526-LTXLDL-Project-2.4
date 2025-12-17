@@ -2,7 +2,7 @@
 
 ## Cấu trúc thư mục
 
-.
+```
 ├── raw/                    # 🏗️ Chứa dữ liệu thô (weather.csv, microblog.csv...)
 ├── processed/              # 🧹 Chứa dữ liệu đã làm sạch và các bảng thống kê
 ├── figures/                # 📊 Chứa các biểu đồ kết quả (.png)
@@ -13,7 +13,7 @@
 │   └── 3_visualization.ipynb
 ├── requirements.txt        # 📦 Các thư viện cần thiết
 └── README.md               # 📖 Hướng dẫn sử dụng
-
+```
 ## Yêu cầu hệ thống
 
 - Python: 3.8+
