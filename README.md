@@ -25,7 +25,7 @@
 **Bước 1:** Cài đặt môi trường
 
 Khuyến khích sử dụng môi trường ảo (virtualenv):
-'''
+```
 # Tạo môi trường ảo
 python -m venv venv
 
@@ -37,7 +37,7 @@ source venv/bin/activate
 
 # Cài đặt thư viện
 pip install -r requirements.txt
-'''
+```
 
 **Bước 2:** Cấu hình Seed
 
