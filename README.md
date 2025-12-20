@@ -42,8 +42,4 @@ pip install -r requirements.txt
 
 - Báo cáo chi tiết: reports/report-AIT2006-1-2.4.pdf
 
-- Commit hash bản nộp: [Điền hash vào đây]
-
-    📝 Ghi chú về dữ liệu
-
-    Dữ liệu thô cần được tải từ Google Drive của môn học và đặt vào thư mục raw/ trước khi chạy code.
+- Commit hash bản nộp: 0c78b600ddd393c869c3a4f76f0983ba6f702fc5
